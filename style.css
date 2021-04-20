@@ -16,10 +16,6 @@ body {
   font-family: "IBM Plex Sans", sans-serif;
 }
 
-header {
-  text-align: center;
-}
-
 main {
   display: flex;
   flex-direction: column;
